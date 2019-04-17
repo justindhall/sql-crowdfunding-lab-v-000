@@ -58,4 +58,34 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Street Cleaning", "Public", 100, "APRIL 16", "MAY 16");
 
-INSERT INTO pledges()
+
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
+INSERT INTO pledges(amount, user_id, project_id) VALUES (5, 1, 2);
