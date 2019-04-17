@@ -38,4 +38,4 @@ INSERT INTO users (name, age) VALUES ("Joe", 30);
 
 INSERT INTO users (name, age) VALUES ("Joe", 30);
 
-INSERT INTO projects (title, )
+INSERT INTO projects (title, category, funding_goal)
