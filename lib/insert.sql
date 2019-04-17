@@ -57,3 +57,5 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Street Cleaning", "Public", 100, "APRIL 16", "MAY 16");
 
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Street Cleaning", "Public", 100, "APRIL 16", "MAY 16");
+
+INSERT INTO pledges()
