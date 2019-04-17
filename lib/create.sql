@@ -15,4 +15,5 @@ CREATE TABLE users (
 
 CREATE TABLE pledge (
   id INTEGER PRIMARY KEY
+  
 );
